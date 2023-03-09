@@ -7,11 +7,14 @@
 ui 设计:
 
 <img src='./img/scen-4.jpg' width=300 height=500/>
+
 <img src='./img/scen-1.jpg' width=300 height=500/>
+
 <img src='./img/scen-2.jpg'width=300 height=500/>
+
 <img src='./img/scen-3.jpg'width=300 height=500/>
 
-### 设计原由：
+设计原由：
 
 - 顶部通过下拉菜单进行景区列表的筛选
 - 每个下拉菜单根据不同的维度筛选景区
