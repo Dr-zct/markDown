@@ -89,5 +89,3 @@ ui 设计：
 <img src='./img/scen-11.jpg' width='400'>
 
 <img src='./img/scen-12.jpg' width='400'>
-设计原由
--
